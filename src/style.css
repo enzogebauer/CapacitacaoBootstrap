@@ -1,0 +1,29 @@
+.imagem-carrousel{
+          object-fit: cover;
+          height: 400px;
+          object-position: 0 60%;          
+}
+.fontsimpsons{
+          font-family: 'Pacifico', cursive
+}
+.alturacerta{
+          height: 60%;
+}
+.cor-vermelho{
+          color: darkred;
+}
+.tamanho-imagem-cards{
+          object-fit: cover;
+          height: 200px;
+          /* object-position: 0 60%; */
+
+}
+.cor-vermelho-fundo{
+          background-color:darkred !important;
+          color:white !important;
+          border-color:darkred !important;
+}
+.card-border {
+        
+          border-color: lightcoral !important;
+}
